@@ -1,0 +1,36 @@
+img {
+    width: 200px;
+    height: 200px;
+    border: 11px inset lightblue;
+}
+section {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: aquamarine;
+    background-color: black;
+}
+nav {
+    color: white;
+    border: 5px dotted white;
+    border: 5px dotted white;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+
+}
+a {
+    text-decoration: none;
+    color: aqua;
+}
+article {
+    border: 20px solid lightgreen;
+    margin: 10px;
+}
+p {
+    border: 11px double lightgreen;
+}
